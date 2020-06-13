@@ -8,7 +8,7 @@ export const fetchOrders = () => {
       const userId = getState().auth.userId;
         try {
             const response = await fetch(
-              `https://rn-shop-b1e99.firebaseio.com/orders/${userId}.json`
+              `https://rn-shop-4816d.firebaseio.com/orders/${userId}.json`
             );
       
             if (!response.ok) {

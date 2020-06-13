@@ -53,11 +53,11 @@ const styles = StyleSheet.create({
         color: '#888',
         textAlign: 'center',
         marginVertical: 20,
-        fontFamily: 'open-sans-bold'
+        // fontFamily: 'open-sans-bold'
     },
     description: {
         fontSize: 14,
-        fontFamily: 'open-sans',
+        // fontFamily: 'open-sans',
         textAlign: 'center',
         marginHorizontal: 20
     }

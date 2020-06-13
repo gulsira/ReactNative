@@ -42,8 +42,8 @@ const styles = StyleSheet.create({
         fontSize: 16
     },
     mainText: {
-        fontFamily: 'open-sans-bold',
-        fontSize: 16
+        // fontFamily: 'open-sans-bold',
+        // fontSize: 16
     },
     deleteButton: {
         marginLeft: 20
