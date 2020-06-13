@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  primay: '#dab2e8'\n};","map":{"version":3,"sources":["C:/Users/gulsi/Desktop/NodeReact/React Native/notes-app/constants/Colors.js"],"names":["primay"],"mappings":"AAAA,eAAe;AACXA,EAAAA,MAAM,EAAE;AADG,CAAf","sourcesContent":["export default {\r\n    primay: '#dab2e8'\r\n};"]},"metadata":{},"sourceType":"module"}
